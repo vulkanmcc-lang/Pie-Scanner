@@ -5,11 +5,8 @@
 	"name": "Pie Scanner",
 	"description": "An experimental client-side mod that analyzes Minecraft's debug profiler to estimate the location of entities and block entities.",
 	"authors": [
-		"YourName"
+		"Vulkan"
 	],
-	"contact": {
-		"sources": "https://github.com/YOUR_USERNAME/pie-scanner"
-	},
 	"license": "MIT",
 	"icon": "assets/pie-scanner/icon.png",
 	"environment": "client",
